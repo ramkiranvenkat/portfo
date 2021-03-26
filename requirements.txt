@@ -196,7 +196,7 @@ pyusb==1.0.2
 PyVISA==1.10.1
 PyVISA-py==0.3.1
 PyWavelets==1.0.3
-PyYAML==5.1.2
+PyYAML==5.4
 pyzmq==18.1.0
 QtAwesome==0.6.0
 qtconsole==4.5.5
