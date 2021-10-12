@@ -133,7 +133,7 @@ numpy==1.17.2
 numpydoc==0.9.1
 olefile==0.46
 opencv-contrib-python==4.1.2.30
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 opencv-python-headless==4.1.2.30
 openpyxl==3.0.0
 opt-einsum==3.1.0
